@@ -3,6 +3,7 @@
 
 [[Arxiv]](https://arxiv.org/abs/1909.08326)
 
+
 ## Physical Properties of Raindrops
 * Gemometric Property 
   * Terminal velocity of raindrops aloft (JAMC1969), Foote et al [[PDF]](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0450%281969%29008%3C0249%3ATVORA%3E2.0.CO%3B2)
@@ -118,9 +119,6 @@
 *iii. In single image experiment, we seperately retrain all the recent state-of-the-art methods via the three training datasets: **RainTrainL**(200 input/clean image pairs), **RainTrainH**(1800 pairs), and **Rain12600**(12600 pairs), and then evaluate their rain removal performance based on the correponding test datasets: **Rain100L**(100 pairs), **Rain100H**(100 pairs), and **Rain1400**(1400 pairs). Besides, the trained model obtained by **RainTrainL** is adpoted to predict rain-removed results of **Rain12**(12 pairs). Moreover, we utilize the **Internet-Data**(147 input images) and **SPA-Data**(1000 pairs) to compare the generalization ability.* 
 
 *iiii. In single image experiment,  when training the semi-supervised method--SIRR, we always utilize **Internet-Data** as unsupervised samples*.
-
-## Pretrained Model
-Please see the **Pretrained Model** folder. 
 
 ##  Image Quality Metrics
 * PSNR (Peak Signal-to-Noise Ratio) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
