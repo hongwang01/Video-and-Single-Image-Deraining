@@ -3,6 +3,13 @@
 
 [[Arxiv]](https://arxiv.org/abs/1909.08326)
 
+## Citation
+@article{WangA,
+  title={A Survey on Rain Removal from Video and Single Image},
+  author={Wang, Hong and Wu, Yichen and Li, Minghan and Zhao, Qian and Meng, Deyu},
+  journal={arXiv preprint arXiv:1909.08326},
+  year={2019}
+}
 
 ## Physical Properties of Raindrops
 * Gemometric Property 
