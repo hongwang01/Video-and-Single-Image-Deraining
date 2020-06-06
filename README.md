@@ -75,7 +75,8 @@
   * Single-frame-based rain removal via image decomposition (ICA2013), Fu et al. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.707.1053&rep=rep1&type=pdf)
   * Exploiting image structural similarity for single image rain removal (ICIP2014), Sun et al.  [[PDF]](http://mml.citi.sinica.edu.tw/papers/ICIP_2014_Sun.pdf)
   * Visual depth guided color image rain streaks removal using sparse coding (TCSVT2014), Chen et al [[PDF]](https://ieeexplore.ieee.org/document/6748866/)
-  * Removing rain from a single image via discriminative sparse coding (ICCV2015), Luo et al [[PDF]](http://ieeexplore.ieee.org/document/7410745/) [[Code]](http://www.math.nus.edu.sg/~matjh/download/image_deraining/rain_removal_v.1.1.zip)
+  * Removing rain from a single image via discriminative sparse coding (ICCV2015), Luo et al [[PDF]](http://ieeexplore.ieee.org/document/7410745/) [[Code]]
+(https://pan.baidu.com/s/1AztZ5BSNKWmxr9PzZwpGDw) pwd: d229
   * Rain streak removal using layer priors (CVPR2016), Li et al [[PDF]](https://ieeexplore.ieee.org/document/7780668/) [[Code]](http://yu-li.github.io/)
   * Single image rain streak decomposition using layer priors (TIP2017), Li et al [[PDF]](https://ieeexplore.ieee.org/document/7934436/)
   * Error-optimized dparse representation for single image rain removal (IEEE TIE2017), Chen et al [[PDF]](https://ieeexplore.ieee.org/abstract/document/7878618/)
