@@ -60,6 +60,10 @@
   * Robust video content alignment and compensation for rain removal in a cnn framework (CVPR2018), Chen et al [[PDF]](https://arxiv.org/abs/1803.10433) [[Code]](https://bitbucket.org/st_ntu_corplab/mrp2a/src/bd2633dbc9912b833de156c799fdeb82747c1240?at=master)
   *  Erase or fill? deep joint recurrent rain removal and reconstruction in videos (CVPR2018), Liu et al. [[Project]](http://www.icst.pku.edu.cn/struct/Projects/J4RNet.html)[[PDF]](http://39.96.165.147/Pub%20Files/2018/ywh_cvpr18.pdf) [[Code]](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)
   * D3R-Net: dynamic routing residue recurrent network for video rain removal (TIP2018), Liu et al. [[PDF]](http://39.96.165.147/Pub%20Files/2019/ywh_tip19.pdf)
+  * Frame consistent recurrent video deraining with dual-level flow (CVPR2019), Yang et al. [[Code]](https://github.com/flyywh/Dual-FLow-Video-Deraining-CVPR-2019)
+  * Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence(CVPR2020), Yang et al.[[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Self-Learning_Video_Rain_Streak_Removal_When_Cyclic_Consistency_Meets_Temporal_CVPR_2020_paper.pdf)[[Supplementray Materials]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Self-Learning_Video_Rain_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/flyywh/CVPR-2020-Self-Rain-Removal)
+  
+  
 ## Single Image Deraining Methods
 * Filter based methods
   * Guided image filtering (ECCV2010), He et al. [[Project]](http://kaiminghe.com/eccv10/index.html) [[PDF]](http://kaiminghe.com/publications/eccv10guidedfilter.pdf) [[Code]](http://kaiminghe.com/eccv10/guided-filter-code-v1.rar)
@@ -101,15 +105,26 @@
   * Learning dual convolutional neural networks for low-level vision (CVPR2018), Pan et al [[Project]](https://sites.google.com/site/jspanhomepage/dualcnn) [[PDF]](https://arxiv.org/pdf/1805.05020.pdf) [[Code]](https://sites.google.com/site/jspanhomepage/dualcnn)
   * Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM2018), Li et al [[PDF]](https://arxiv.org/pdf/1808.01491.pdf) [[Code]](https://github.com/AlexHex7/NLEDN)
   *  Unsupervised single image deraining with self-supervised constraints (ICIP2019), Jin et al [[PDF]](https://arxiv.org/pdf/1811.08575)
+  *  Residual multiscale based single image deraining (BMVC2019), Zheng et al.
+  *  Uncertainty guided multi-scale residual learning-using a cycle spinning cnn for single image de-raining (CVPR2019),  Rajeev Yasarla et al.[[Code]](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)
+  * Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR2019), Li et al.[[Code]](https://github.com/liruoteng/HeavyRainRemoval)
   * Progressive image deraining networks: A better and simpler baseline (CVPR2019), Ren et al [[PDF]](https://csdwren.github.io/papers/PReNet_cvpr_camera.pdf) [[Code]](https://github.com/csdwren/PReNet)
   * Spatial attentive single-image deraining with a high quality real rain dataset (CVPR2019), Wang et al [[Project]](https://stevewongv.github.io/derain-project.html) [[PDF]](https://arxiv.org/abs/1904.01538) [[Code]](https://github.com/stevewongv/SPANet)
   * Lightweight pyramid networks for image deraining (TNNLS2019), Fu et al [[PDF]](https://arxiv.org/pdf/1805.06173.pdf) [[Code]](https://xueyangfu.github.io/projects/LPNet.html)
   *  Joint rain detection and removal from a single image with contextualized deep networks (TPAMI2019), Yang et al [[PDF]](https://ieeexplore.ieee.org/document/8627954) [[Code]](https://github.com/flyywh/JORDER-E-Deep-Image-Deraining-TPAMI-2019-Journal)
+  * Scale-free single image deraining via visibility-enhanced recurrent wavelet learning (TIP2019), Yang et al.[[PDF]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s5y0tx0xn340as0916d02a0vr034675&site=xueshu_se)
+  * Towards scale-free rain streak removal via selfsupervised fractal band learning (AAAI2020), Yang et al.[[Code]](https://github.com/flyywh/AAAI-2020-FBL-SS)
+  * Structural Residual Learning for Single Image Rain Removal(Arxiv2020), Wang et al. [[PDF]](https://arxiv.org/abs/2005.09228)
+  * All in One Bad Weather Removal Using Architectural Search (CVPR2020), Li et al.[[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)
+  * Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes(CVPR2020), Rajeev Yasarla et al. [[Code]](https://github.com/rajeevyasarla/)
+  * Multi-Scale Progressive Fusion Network for Single Image Deraining(CVPR2020), Jiang et al. [[Code]](https://github.com/kuihua/MSPFN)
+  * Detail-recovery Image Deraining via Context Aggregation Networks(CVPR2020), Deng et al.[[Code]](https://github.com/Dengsgithub/DRD-Net)
   
 * Joint Model-driven and Data-driven
   * Deep Layer Prior Optimization for Single Image Rain Streaks Removal (ICASSP2018), Liu et al [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461892)
   * Learning bilevel layer priors for single image rain streaks removal (SP Letters 2018), Mu et al [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8586910)
   * Semi-supervised transfer learning for image rain removal (CVPR2019), Wei et al [[PDF]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2618027&name=DLFE-118007.pdf) [[Code]](https://github.com/wwzjer/Semi-supervised-IRR)
+  * A Model-driven Deep Neural Network for Single Image Rain Removal (CVPR2020), Wang et al [[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)[[Supplementary Materials]](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_A_Model-Driven_Deep_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/hongwang01/RCDNet)
   
 ## Datasets and  the Usage
 * Video
