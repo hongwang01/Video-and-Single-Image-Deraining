@@ -104,8 +104,7 @@
   * Single image rain removal via a deep decomposition-composition network (CVIU2019), Li et al.
   *  Unsupervised single image deraining with self-supervised constraints (ICIP2019), Jin et al [[PDF]](https://arxiv.org/pdf/1811.08575)
   *  Residual multiscale based single image deraining (BMVC2019), Zheng et al.
-  *  Erl-net: Entangled representation learning for single image de-raining (ICCV2019), Wang et al. [[code]] 
-  (https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)
+  *  Erl-net: Entangled representation learning for single image de-raining (ICCV2019), Wang et al. [[code]](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)
   *  Uncertainty guided multi-scale residual learning-using a cycle spinning cnn for single image de-raining (CVPR2019),  Rajeev Yasarla et al.[[Code]](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)
   * Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR2019), Li et al.[[Code]](https://github.com/liruoteng/HeavyRainRemoval)
   * Progressive image deraining networks: A better and simpler baseline (CVPR2019), Ren et al [[PDF]](https://csdwren.github.io/papers/PReNet_cvpr_camera.pdf) [[Code]](https://github.com/csdwren/PReNet)
@@ -129,9 +128,9 @@
   * A Model-driven Deep Neural Network for Single Image Rain Removal (CVPR2020), Wang et al [[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)[[Supplementary Materials](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_A_Model-Driven_Deep_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/hongwang01/RCDNet)
 
 * Reivew paper
- * Single image deraining: A comprehensive benchmark analysis(CVPR2019), Li et al.[[PDF]](https://arxiv.org/abs/1903.08558) [[Code]](https://github.com/lsy17096535/Single-Image-Deraining)
- * A Survey on Rain Removal from Video and Single Image (Arxiv2019), Wang et al. [[PDF]](https://arxiv.org/abs/1909.08326) [[Code]](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
- * Single image deraining: From model-based to data-driven and beyond(TPAMI2020), Yang et al.[[Code]](https://flyywh.github.io/Single_rain_removal_survey)
+  * Single image deraining: A comprehensive benchmark analysis(CVPR2019), Li et al.[[PDF]](https://arxiv.org/abs/1903.08558) [[Code]](https://github.com/lsy17096535/Single-Image-Deraining)
+  * A Survey on Rain Removal from Video and Single Image (Arxiv2019), Wang et al. [[PDF]](https://arxiv.org/abs/1909.08326) [[Code]](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
+  * Single image deraining: From model-based to data-driven and beyond(TPAMI2020), Yang et al.[[Code]](https://flyywh.github.io/Single_rain_removal_survey)
  
 * Video
   * Synthetic Datasets: **highway** and **park**. 
@@ -144,11 +143,11 @@
   * Real Datasets: Please download **SPA-Data** from [[Baidu Netdisk, key: 4fwo]](https://pan.baidu.com/s/1lPn3MWckHxh1uBYYucoWVQ) provided by [Wang Tianyu](https://github.com/stevewongv/SPANet) and  **Internet-Data** from the link provided by [Weiwei](https://github.com/wwzjer/Semi-supervised-IRR/tree/master/data/rainy_image_dataset/real_input) .
   
   * Other important datasets
-     *Rain800 [[Link]](https://github.com/hezhangsprinter/ID-CGAN)
-     *Rain12000[[Link]] https://github.com/hezhangsprinter/)
-     *RainCityscapes[[Link]] https://github.com/xw-hu/DAF-Net)
-     *NYU-Rain[[Link]] https://github.com/liruoteng/HeavyRainRemoval)
-     *MPID [[Link]] (https://github.com/lsy17096535/Single-Image-Deraining)
+     ** Rain800 [[Link]](https://github.com/hezhangsprinter/ID-CGAN)
+     ** Rain12000[[Link]](https://github.com/hezhangsprinter/)
+     ** RainCityscapes[[Link]](https://github.com/xw-hu/DAF-Net)
+     ** NYU-Rain[[Link]](https://github.com/liruoteng/HeavyRainRemoval)
+     ** MPID [[Link]](https://github.com/lsy17096535/Single-Image-Deraining)
     
 **We note that*:
 
