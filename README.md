@@ -173,7 +173,7 @@
   * BRISQUE (Blind/Referenceless Image Spatial Quality Evaluator)[[PDF]](https://www.live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/BRISQUE_release.zip)
   * SSEQ (Spatial-Spectral Entropy-based Quality)[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596514000927) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/SSEQ_release.zip)
   
-**Please note that all quantitative results are computed based on Y channel*.
+**Please note that all quantitative results in our survey paper are computed based on Y channel*.
 
 ## Contact
 If you have any question, please feel free to concat Hong Wang (Email: hongwang01@stu.xjtu.edu.cn).
