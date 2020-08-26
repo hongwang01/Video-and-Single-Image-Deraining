@@ -127,11 +127,12 @@
   * Knowledge-driven deep unrolling for robust image layer separation (TNNLS2019), Liu et al.
   * A Model-driven Deep Neural Network for Single Image Rain Removal (CVPR2020), Wang et al [[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)[[Supplementary Materials](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_A_Model-Driven_Deep_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/hongwang01/RCDNet)
 
-* Reivew paper
+* **Reivew paper**
   * Single image deraining: A comprehensive benchmark analysis(CVPR2019), Li et al.[[PDF]](https://arxiv.org/abs/1903.08558) [[Code]](https://github.com/lsy17096535/Single-Image-Deraining)
   * A Survey on Rain Removal from Video and Single Image (Arxiv2019), Wang et al. [[PDF]](https://arxiv.org/abs/1909.08326) [[Code]](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
   * Single image deraining: From model-based to data-driven and beyond(TPAMI2020), Yang et al.[[Code]](https://flyywh.github.io/Single_rain_removal_survey)
- 
+
+## Datasets and Discriptions 
 * Video
   * Synthetic Datasets: **highway** and **park**. 
   * Real Datasets: **compfinal** and **night**. 
@@ -143,11 +144,11 @@
   * Real Datasets: Please download **SPA-Data** from [[Baidu Netdisk, key: 4fwo]](https://pan.baidu.com/s/1lPn3MWckHxh1uBYYucoWVQ) provided by [Wang Tianyu](https://github.com/stevewongv/SPANet) and  **Internet-Data** from the link provided by [Weiwei](https://github.com/wwzjer/Semi-supervised-IRR/tree/master/data/rainy_image_dataset/real_input) .
   
   * Other important datasets
-     ** Rain800 [[Link]](https://github.com/hezhangsprinter/ID-CGAN)
-     ** Rain12000[[Link]](https://github.com/hezhangsprinter/)
-     ** RainCityscapes[[Link]](https://github.com/xw-hu/DAF-Net)
-     ** NYU-Rain[[Link]](https://github.com/liruoteng/HeavyRainRemoval)
-     ** MPID [[Link]](https://github.com/lsy17096535/Single-Image-Deraining)
+     Rain800 [[Link]](https://github.com/hezhangsprinter/ID-CGAN)，
+     Rain12000[[Link]](https://github.com/hezhangsprinter/)，
+     RainCityscapes[[Link]](https://github.com/xw-hu/DAF-Net)，
+     NYU-Rain[[Link]](https://github.com/liruoteng/HeavyRainRemoval)，
+     MPID [[Link]](https://github.com/lsy17096535/Single-Image-Deraining)
     
 **We note that*:
 
