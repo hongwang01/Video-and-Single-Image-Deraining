@@ -59,7 +59,9 @@
   * D3R-Net: dynamic routing residue recurrent network for video rain removal (TIP2018), Liu et al. [[PDF]](http://39.96.165.147/Pub%20Files/2019/ywh_tip19.pdf)
   * Frame consistent recurrent video deraining with dual-level flow (CVPR2019), Yang et al. [[Code]](https://github.com/flyywh/Dual-FLow-Video-Deraining-CVPR-2019)
   * Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence(CVPR2020), Yang et al.[[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Self-Learning_Video_Rain_Streak_Removal_When_Cyclic_Consistency_Meets_Temporal_CVPR_2020_paper.pdf)[[Supplementray Materials]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Self-Learning_Video_Rain_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/flyywh/CVPR-2020-Self-Rain-Removal)
-  
+* **Reivew paper**
+  * Removal of rain from videos: a review (SIVP2014), Tripathi et al [[PDF]](https://www.deepdyve.com/lp/springer-journals/removal-of-rain-from-videos-a-review-ZLDEb0QAU0)
+  * A Survey on Rain Removal from Video and Single Image (Arxiv2019), Wang et al. [[PDF]](https://arxiv.org/abs/1909.08326) [[Code]](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
   
 ## Single Image Deraining Methods
 * Filter based methods
