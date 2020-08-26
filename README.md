@@ -101,8 +101,11 @@
   * Physics-based generative adversarial models for image restoration and beyond (Arxiv2018), Pan et al [[PDF]](https://arxiv.org/pdf/1808.00605.pdf)
   * Learning dual convolutional neural networks for low-level vision (CVPR2018), Pan et al [[Project]](https://sites.google.com/site/jspanhomepage/dualcnn) [[PDF]](https://arxiv.org/pdf/1805.05020.pdf) [[Code]](https://sites.google.com/site/jspanhomepage/dualcnn)
   * Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM2018), Li et al [[PDF]](https://arxiv.org/pdf/1808.01491.pdf) [[Code]](https://github.com/AlexHex7/NLEDN)
+  * Single image rain removal via a deep decomposition-composition network (CVIU2019), Li et al.
   *  Unsupervised single image deraining with self-supervised constraints (ICIP2019), Jin et al [[PDF]](https://arxiv.org/pdf/1811.08575)
   *  Residual multiscale based single image deraining (BMVC2019), Zheng et al.
+  *  Erl-net: Entangled representation learning for single image de-raining (ICCV2019), Wang et al. [[code]] 
+  (https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)
   *  Uncertainty guided multi-scale residual learning-using a cycle spinning cnn for single image de-raining (CVPR2019),  Rajeev Yasarla et al.[[Code]](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)
   * Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR2019), Li et al.[[Code]](https://github.com/liruoteng/HeavyRainRemoval)
   * Progressive image deraining networks: A better and simpler baseline (CVPR2019), Ren et al [[PDF]](https://csdwren.github.io/papers/PReNet_cvpr_camera.pdf) [[Code]](https://github.com/csdwren/PReNet)
@@ -116,14 +119,20 @@
   * Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes(CVPR2020), Rajeev Yasarla et al. [[Code]](https://github.com/rajeevyasarla/)
   * Multi-Scale Progressive Fusion Network for Single Image Deraining(CVPR2020), Jiang et al. [[Code]](https://github.com/kuihua/MSPFN)
   * Detail-recovery Image Deraining via Context Aggregation Networks(CVPR2020), Deng et al.[[Code]](https://github.com/Dengsgithub/DRD-Net)
-  
+  * Variational image deraining(WACV2020), Du et al.[[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Du_Variational_Image_Deraining_WACV_2020_paper.pdf)
+ 
 * Joint Model-driven and Data-driven
   * Deep Layer Prior Optimization for Single Image Rain Streaks Removal (ICASSP2018), Liu et al [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461892)
   * Learning bilevel layer priors for single image rain streaks removal (SP Letters 2018), Mu et al [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8586910)
   * Semi-supervised transfer learning for image rain removal (CVPR2019), Wei et al [[PDF]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2618027&name=DLFE-118007.pdf) [[Code]](https://github.com/wwzjer/Semi-supervised-IRR)
-  * A Model-driven Deep Neural Network for Single Image Rain Removal (CVPR2020), Wang et al [[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)[[Supplementary Materials]](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_A_Model-Driven_Deep_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/hongwang01/RCDNet)
-  
-## Datasets and  the Usage
+  * Knowledge-driven deep unrolling for robust image layer separation (TNNLS2019), Liu et al.
+  * A Model-driven Deep Neural Network for Single Image Rain Removal (CVPR2020), Wang et al [[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)[[Supplementary Materials](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_A_Model-Driven_Deep_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/hongwang01/RCDNet)
+
+* Reivew paper
+ * Single image deraining: A comprehensive benchmark analysis(CVPR2019), Li et al.[[PDF]](https://arxiv.org/abs/1903.08558) [[Code]](https://github.com/lsy17096535/Single-Image-Deraining)
+ * A Survey on Rain Removal from Video and Single Image (Arxiv2019), Wang et al. [[PDF]](https://arxiv.org/abs/1909.08326) [[Code]](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
+ * Single image deraining: From model-based to data-driven and beyond(TPAMI2020), Yang et al.[[Code]](https://flyywh.github.io/Single_rain_removal_survey)
+ 
 * Video
   * Synthetic Datasets: **highway** and **park**. 
   * Real Datasets: **compfinal** and **night**. 
@@ -133,6 +142,13 @@
   * Synthetic Datasets:  **RainTrainL/Rain100L**, **RainTrainH/Rain100H**, **Rain12600/Rain1400**, and **Rain12**.
      Please download from [[Baidu Netdisk]](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg) provided by [Ren Dongwei](https://github.com/csdwren/PReNet).
   * Real Datasets: Please download **SPA-Data** from [[Baidu Netdisk, key: 4fwo]](https://pan.baidu.com/s/1lPn3MWckHxh1uBYYucoWVQ) provided by [Wang Tianyu](https://github.com/stevewongv/SPANet) and  **Internet-Data** from the link provided by [Weiwei](https://github.com/wwzjer/Semi-supervised-IRR/tree/master/data/rainy_image_dataset/real_input) .
+  
+  * Other important datasets
+     *Rain800 [[Link]](https://github.com/hezhangsprinter/ID-CGAN)
+     *Rain12000[[Link]] https://github.com/hezhangsprinter/)
+     *RainCityscapes[[Link]] https://github.com/xw-hu/DAF-Net)
+     *NYU-Rain[[Link]] https://github.com/liruoteng/HeavyRainRemoval)
+     *MPID [[Link]] (https://github.com/lsy17096535/Single-Image-Deraining)
     
 **We note that*:
 
@@ -145,11 +161,16 @@
 *iiii. In single image experiment,  when training the semi-supervised method--SIRR, we always utilize **Internet-Data** as unsupervised samples*.
 
 ##  Image Quality Metrics
-* PSNR (Peak Signal-to-Noise Ratio) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
-* SSIM (Structural Similarity) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
-* VIF (Visual Quality) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1576816) [[Matlab Code]](http://sse.tongji.edu.cn/linzhang/IQA/Evalution_VIF/eva-VIF.htm)
-* FSIM (Feature Similarity) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[Matlab Code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm))
-
+* Reference 
+   * PSNR (Peak Signal-to-Noise Ratio) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
+   * SSIM (Structural Similarity) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
+   * VIF (Visual Quality) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1576816) [[Matlab Code]](http://sse.tongji.edu.cn/linzhang/IQA/Evalution_VIF/eva-VIF.htm)
+   * FSIM (Feature Similarity) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[Matlab Code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm))
+* Non-reference
+  * NIQE (Naturalness Image Quality Evaluator)[[PDF]](https://live.ece.utexas.edu/research/Quality/niqe_spl.pdf) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/niqe_release.zip)
+  * BRISQUE (Blind/Referenceless Image Spatial Quality Evaluator)[[PDF]](https://www.live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/BRISQUE_release.zip)
+  * SSEQ (Spatial-Spectral Entropy-based Quality)[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596514000927) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/SSEQ_release.zip)
+  
 **Please note that all quantitative results are computed based on Y channel*.
 
 ## Contact
