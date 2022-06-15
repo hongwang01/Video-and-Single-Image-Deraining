@@ -71,7 +71,6 @@
   * Single-image deraining using an adaptive nonlocal means filter (ICIP2013), Kim et al. [[PDF]](https://ieeexplore_ieee.gg363.site/abstract/document/6738189)
   * Single-image-based rain and snow removal using multi-guided filter (NIPS2013), Zheng et al. [[PDF]](https://pdfs.semanticscholar.org/f111/54e4e1adbde9f24b25fd2d98337a759d8b21.pdf)
   * Single image rain and snow removal via guided L0 smoothing filter (Multimedia Tools and Application2016), Ding et al. [[PDF]](https://link_springer.gg363.site/article/10.1007/s11042-015-2657-7)
-  
 * Prior based methods
   * Automatic single-image-based rain streaks removal via image decomposition (TIP2012), Kang et al [[PDF]](http://www.ee.nthu.edu.tw/cwlin/Rain_Removal/tip_rain_removal_2011.pdf) [[Code]](http://www.ee.nthu.edu.tw/cwlin/pub/rain_tip2012_code.rar)
   * Self-learning-based rain streak removal for image/video (ISCS2012), Kang et al. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.3957&rep=rep1&type=pdf)
@@ -87,7 +86,6 @@
   * Convolutional sparse and low-rank codingbased rain streak removal (WCACV2017), Zhang et al [[PDF]](https://ieeexplore_ieee.gg363.site/abstract/document/7926728/)
   * Joint convolutional analysis and synthesis sparse representation for single image layer separation (CVPR2017), Gu et al [[PDF]](http://openaccess.thecvf.com/content_iccv_2017/html/Gu_Joint_Convolutional_Analysis_ICCV_2017_paper.html) [[Code]](https://sites.google.com/site/shuhanggu/home)
   * Single image deraining via decorrelating the rain streaks and background scene in gradient domain (PR2018)， Du et al [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318300700)
-  
 * Deep Learning
   * Restoring an image taken through a window covered with dirt or rain (ICCV2013), Eigen et al. [[Project]](https://cs.nyu.edu/~deigen/rain/) [[PDF]](http://openaccess.thecvf.com/content_iccv_2013/papers/Eigen_Restoring_an_Image_2013_ICCV_paper.pdf) [[Code]](https://cs.nyu.edu/~deigen/rain/restore-dirt-rain.tgz)
   * Attentive generative adversarial network for raindrop removal from a single image (CVPR2018), Qian et al [[Project]](https://rui1996.github.io/raindrop/raindrop_removal.html) [[PDF]](https://arxiv.org/abs/1711.10098)
@@ -104,15 +102,15 @@
   * Learning dual convolutional neural networks for low-level vision (CVPR2018), Pan et al [[Project]](https://sites.google.com/site/jspanhomepage/dualcnn) [[PDF]](https://arxiv.org/pdf/1805.05020.pdf) [[Code]](https://sites.google.com/site/jspanhomepage/dualcnn)
   * Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM2018), Li et al [[PDF]](https://arxiv.org/pdf/1808.01491.pdf) [[Code]](https://github.com/AlexHex7/NLEDN)
   * Single image rain removal via a deep decomposition-composition network (CVIU2019), Li et al.
-  *  Unsupervised single image deraining with self-supervised constraints (ICIP2019), Jin et al [[PDF]](https://arxiv.org/pdf/1811.08575)
-  *  Residual multiscale based single image deraining (BMVC2019), Zheng et al.
-  *  Erl-net: Entangled representation learning for single image de-raining (ICCV2019), Wang et al. [[code]](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)
-  *  Uncertainty guided multi-scale residual learning-using a cycle spinning cnn for single image de-raining (CVPR2019),  Rajeev Yasarla et al.[[Code]](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)
+  * Unsupervised single image deraining with self-supervised constraints (ICIP2019), Jin et al [[PDF]](https://arxiv.org/pdf/1811.08575)
+  * Residual multiscale based single image deraining (BMVC2019), Zheng et al.
+  * Erl-net: Entangled representation learning for single image de-raining (ICCV2019), Wang et al. [[code]](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)
+  * Uncertainty guided multi-scale residual learning-using a cycle spinning cnn for single image de-raining (CVPR2019),  Rajeev Yasarla et al.[[Code]](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)
   * Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR2019), Li et al.[[Code]](https://github.com/liruoteng/HeavyRainRemoval)
   * Progressive image deraining networks: A better and simpler baseline (CVPR2019), Ren et al [[PDF]](https://csdwren.github.io/papers/PReNet_cvpr_camera.pdf) [[Code]](https://github.com/csdwren/PReNet)
   * Spatial attentive single-image deraining with a high quality real rain dataset (CVPR2019), Wang et al [[Project]](https://stevewongv.github.io/derain-project.html) [[PDF]](https://arxiv.org/abs/1904.01538) [[Code]](https://github.com/stevewongv/SPANet)
   * Lightweight pyramid networks for image deraining (TNNLS2019), Fu et al [[PDF]](https://arxiv.org/pdf/1805.06173.pdf) [[Code]](https://xueyangfu.github.io/projects/LPNet.html)
-  *  Joint rain detection and removal from a single image with contextualized deep networks (TPAMI2019), Yang et al [[PDF]](https://ieeexplore.ieee.org/document/8627954) [[Code]](https://github.com/flyywh/JORDER-E-Deep-Image-Deraining-TPAMI-2019-Journal)
+  * Joint rain detection and removal from a single image with contextualized deep networks (TPAMI2019), Yang et al [[PDF]](https://ieeexplore.ieee.org/document/8627954) [[Code]](https://github.com/flyywh/JORDER-E-Deep-Image-Deraining-TPAMI-2019-Journal)
   * Scale-free single image deraining via visibility-enhanced recurrent wavelet learning (TIP2019), Yang et al.[[PDF]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s5y0tx0xn340as0916d02a0vr034675&site=xueshu_se)
   * Towards scale-free rain streak removal via selfsupervised fractal band learning (AAAI2020), Yang et al.[[Code]](https://github.com/flyywh/AAAI-2020-FBL-SS)
   * Structural Residual Learning for Single Image Rain Removal(Arxiv2020), Wang et al. [[PDF]](https://arxiv.org/abs/2005.09228)
@@ -121,14 +119,23 @@
   * Multi-Scale Progressive Fusion Network for Single Image Deraining(CVPR2020), Jiang et al. [[Code]](https://github.com/kuihua/MSPFN)
   * Detail-recovery Image Deraining via Context Aggregation Networks(CVPR2020), Deng et al.[[Code]](https://github.com/Dengsgithub/DRD-Net)
   * Variational image deraining(WACV2020), Du et al.[[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Du_Variational_Image_Deraining_WACV_2020_paper.pdf)
- 
+  * Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model (CVPR2022), Chen et al.[[Project]](https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal) [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf) 
+  * GIQE: Generic Image Quality Enhancement via Nth Order Iterative Degradation (CVPR2022), Pranjay Shyam et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shyam_GIQE_Generic_Image_Quality_Enhancement_via_Nth_Order_Iterative_Degradation_CVPR_2022_paper.pdf) [[Supplementary Materials]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Shyam_GIQE_Generic_Image_CVPR_2022_supplemental.pdf)
+  * Dual Heterogeneous Complementary Networks for Single Image Deraining (CVPR2022), Yuuto Nanba et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Nanba_Dual_Heterogeneous_Complementary_Networks_for_Single_Image_Deraining_CVPRW_2022_paper.pdf)
+  * TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions (CVPR2022), Jeya Maria Jose Valanarasu et al. [[Project]](https://github.com/vfrantc/TransMod) [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Valanarasu_TransWeather_Transformer-Based_Restoration_of_Images_Degraded_by_Adverse_Weather_Conditions_CVPR_2022_paper.pdf)
+  * Unpaired Deep Image Deraining Using Dual Contrastive Learning (CVPR2022), Chen et al. [[Project]](https://cxtalk.github.io/projects/DCD-GAN.html) [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Unpaired_Deep_Image_Deraining_Using_Dual_Contrastive_Learning_CVPR_2022_paper.pdf)
+  * Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity (CVPR2022), Ye et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Unsupervised_Deraining_Where_Contrastive_Learning_Meets_Self-Similarity_CVPR_2022_paper.pdf)
+  * Single Image Deraining Network with Rain Embedding Consistency and Layered LSTM (WACV2022), Li et al. [[PDF]](https://openaccess.thecvf.com/content/WACV2022/papers/Li_Single_Image_Deraining_Network_With_Rain_Embedding_Consistency_and_Layered_WACV_2022_paper.pdf)
+  * FLUID: Few-Shot Self-Supervised Image Deraining (WACV2022), Shyam Nandan Rai et al. [[PDF]](https://openaccess.thecvf.com/content/WACV2022/papers/Nandan_FLUID_Few-Shot_Self-Supervised_Image_Deraining_WACV_2022_paper.pdf) [[Code]](https://github.com/biubiubiiu/derain-toolbox/tree/efc7b2f00e027f6b640317273a960c7388488129/configs/ecnet)
+  * Single image rain removal using recurrent scale-guide networks (Neurocomputing2022), Wang et al. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231221015071)
+  * Non-local channel aggregation network for single image rain removal (Neurocomputing2022), Su et al. [[PDF]](https://pdf.sciencedirectassets.com/271597/1-s2.0-S0925231221X00392/1-s2.0-S0925231221015381/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIHpOkik5nfskcG65HE6FqbqgbwkZ8twfDW%2Fm%2BEs2febWAiEAurZ8S866NGW9PR%2Fc%2FFlUqfNxawXxdW6Z543MMkrcEBsq2wQIm%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDNbDUd46tEPRVAX6CyqvBN%2FbFhiqRJvZsLo4%2FBpmQdRhuh%2B7HtLjNr1iHNmhGbZTJIhe1b3JTn%2F9a0iluKh9LSLlTScczGJ202q8id6HrsIMq82Wecwbe%2F7PBA%2FgYGmWLutDble5wRxU%2BuiXyCE6L9B3BB3yJMy7zGz9DpDqSWPpoIoXStbQz0tb%2BAk04g%2FkSLOEOCj2qNq5cYCb1BKXyWNO4kkmIqLZDQFk%2FgwJZiWeQJi9Gg3Ebw4iOP5A1DYTfULMcmD9D8PcG%2FP6Q5Ju31j51tm9DfAqTvYx09dZEoJHlwnAlAObVd88hcQHzdA3jFciiTgRPQTPhr2Mw6RAhGHE7hdRsY8532outSJO87ohjMhrf7XRCnyuTEmbd2gfl%2FFCk9KfycqZ6fYo4yPNzdBa3mA0OkeRHU6vyjbTwI5XdX%2Bd%2FIXTSIX2i6eekCvQ7%2FuSPiXDQ8Vi%2F%2BxWUWfq9kz%2FqhbK5fOf262A1nQvEnqpw654D2wmFw8CzvCGvRCtyAF4GQi7p%2BpjGVAJJHQ0lZIsmc1DLNm1un3bu9JuBGpaSiuFugRqQa0cKjuqMMHLlAaZdTleQJxKktl6gL23y9gNcGNVIsAuLMEjMaajMQ%2B3Emp6LwAp44iD1n5uZK%2FofDlTUT%2FgHfdkqQlvRdAG9kDW3SIEW7zpy2jXv424%2FQG9Ws%2Foe9PYKSyx63GYSB99WTsQLbNPRnFpu3lTl2OaMiiHl2uM%2B75VPMmjKD0vjyX1W7Y7PhxN79ph8vNGdDwwmuuklQY6qQG8qNOsTboUz0gAVbA4OusBCV6IibOz0idkjBvudCdFJbFZr%2F4e7hMEdAm3LHGv%2BzNAjhK1IBRntIlt5x1qNR0JGmr5xSzzwF6DowmGEBHtVkgkiErpavRlftpOvVdi06cTkLExzgX6D2wFUfp8Nucp%2Fe4Ip3%2FKts8jmES6P7VkQ0JrLeo4ldlaul%2FYqOlgyTn5%2FURFy3zJLvBEjay5%2FFhq8tMGrgE%2F6SNe&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220615T022439Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTYXQXMRR5U%2F20220615%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=763e61d3f99c3b21a24dcb8ad39e68f8f79ce53a6c4c26c4979a2da308915b3a&hash=c650a0ae313e1fee62e0884e4bc0d83d1cd8af0f8bd67adb655012b4c6fb7363&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0925231221015381&tid=spdf-22b22478-29f2-45f5-98d3-1ddc0ee40350&sid=7801520e69f8b34bba09bfb986cc1e7d45c7gxrqb&type=client&ua=4d530051015b0254020c&rr=71b7d9c6cc852095)
 * Joint Model-driven and Data-driven
   * Deep Layer Prior Optimization for Single Image Rain Streaks Removal (ICASSP2018), Liu et al [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461892)
   * Learning bilevel layer priors for single image rain streaks removal (SP Letters 2018), Mu et al [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8586910)
   * Semi-supervised transfer learning for image rain removal (CVPR2019), Wei et al [[PDF]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2618027&name=DLFE-118007.pdf) [[Code]](https://github.com/wwzjer/Semi-supervised-IRR)
   * Knowledge-driven deep unrolling for robust image layer separation (TNNLS2019), Liu et al.
   * A Model-driven Deep Neural Network for Single Image Rain Removal (CVPR2020), Wang et al [[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)[[Supplementary Materials](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_A_Model-Driven_Deep_CVPR_2020_supplemental.pdf) [[Code]](https://github.com/hongwang01/RCDNet)
-
+  * Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond (CVPR2022), Yu et al [[Project]]([yuyi-sd/Robust_Rain_Removal (github.com)](https://github.com/yuyi-sd/Robust_Rain_Removal)) [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.pdf) 
 * **Reivew paper**
   * Single image deraining: A comprehensive benchmark analysis(CVPR2019), Li et al.[[PDF]](https://arxiv.org/abs/1903.08558) [[Code]](https://github.com/lsy17096535/Single-Image-Deraining)
   * A Survey on Rain Removal from Video and Single Image (Arxiv2019), Wang et al. [[PDF]](https://arxiv.org/abs/1909.08326) [[Code]](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
@@ -139,7 +146,7 @@
   * Synthetic Datasets: **highway** and **park**. 
   * Real Datasets: **compfinal** and **night**. 
     Please download from [[Baidu Netdisk]](https://pan.baidu.com/s/1N5I13BCqBs4iQT7Llw_KWg) provided by [Li Minghan](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal).
-   
+  
 * Single Image
   * Synthetic Datasets:  **RainTrainL/Rain100L**, **RainTrainH/Rain100H**, **Rain12600/Rain1400**, and **Rain12**.
      Please download from [[Baidu Netdisk]](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg) provided by [Ren Dongwei](https://github.com/csdwren/PReNet).
@@ -151,7 +158,8 @@
      RainCityscapes[[Link]](https://github.com/xw-hu/DAF-Net)，
      NYU-Rain[[Link]](https://github.com/liruoteng/HeavyRainRemoval)，
      MPID [[Link]](https://github.com/lsy17096535/Single-Image-Deraining)
-    
+  
+
 **We note that*:
 
 *i. **RainTrainL/Rain100L** and **RainTrainH/Rain100H** are synthesized by [Yang Wenhan](https://github.com/flyywh). **Rain12600/Rain1400** is from [Fu Xueyang](https://xueyangfu.github.io/) and **Rain12** is from [Li Yu](http://yu-li.github.io/).*
@@ -173,6 +181,7 @@
   * BRISQUE (Blind/Referenceless Image Spatial Quality Evaluator)[[PDF]](https://www.live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/BRISQUE_release.zip)
   * SSEQ (Spatial-Spectral Entropy-based Quality)[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596514000927) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/SSEQ_release.zip)
   
+
 **Please note that all quantitative results in our survey paper are computed based on Y channel*.
 
 ## Contact
