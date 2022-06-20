@@ -3,7 +3,21 @@
 
 [[Arxiv]](https://arxiv.org/abs/1909.08326)
 
-## Citation
+## Citation 
+```
+@article{wang2022survey,
+  title={Survey on rain removal from videos or a single image},
+  author={Wang, Hong and Wu, Yichen and Li, Minghan and Zhao, Qian and Meng, Deyu},
+  journal={Science China Information Sciences},
+  volume={65},
+  number={1},
+  pages={1--23},
+  year={2022},
+  publisher={Springer}
+}
+```
+
+
 ```
 @article{WangA,
   title={A Survey on Rain Removal from Video and Single Image}, 
@@ -12,6 +26,8 @@
   year={2019}
 }
 ```
+
+
 
 ## Physical Properties of Raindrops
 * Gemometric Property 
